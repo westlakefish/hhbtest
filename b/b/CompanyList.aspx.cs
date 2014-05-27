@@ -12,6 +12,15 @@ namespace b
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            //BindList
+            BindList();
         }
+
+        //绑定企业
+        protected void BindList()
+        {
+
+        }
+
     }
 }

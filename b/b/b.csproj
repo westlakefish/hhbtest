@@ -62,7 +62,6 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Code\Cfg.cs" />
     <Compile Include="CompanyList.aspx.cs">
       <DependentUpon>CompanyList.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
